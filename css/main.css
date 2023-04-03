@@ -1,0 +1,119 @@
+body{
+    font-family: 'Nanum Myeongjo', serif;
+}
+.navbar{
+    border-radius: 30px;
+}
+.box-nav{
+    position: relative;
+}
+.box1{
+    position: absolute;
+    top: 8px;
+    left: 14px;
+    right: 120px;
+    bottom: 15px;
+    background-color:rgb(109, 52, 202) ;
+}
+.box2{
+    position: absolute;
+    top: 15px;
+    left: 24px;
+    right: 110px;
+    bottom: 8px;
+    background-color: rgb(230, 46, 46);
+}
+.text-ty{
+    color: rgb(109, 52, 202);
+}
+.text-ko{
+    color: rgb(230, 46, 46);
+}
+.text-home{
+    color: rgb(230, 46, 46);
+}
+.btn-top{
+    background-color: rgb(230, 46, 46);
+    font-size: 12px;
+}
+.bi-people{
+    background-color:rgb(109, 52, 202) ;
+    font-size: 48px;
+}
+.cont{
+    line-height: 2; 
+    margin-top: -100px;
+}
+.back-ground{
+    background-image: linear-gradient(to right, rgb(179, 3, 179) , rgb(93, 0, 199));
+}
+.back-ground2{
+    background-image: linear-gradient(to right, rgb(179, 3, 179) , rgb(93, 0, 199));
+}
+.middel-box{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.top-box-middel{
+    line-height: 4;
+}
+.icolor{
+    color:rgb(109, 52, 202) ;
+}
+.box-card{
+    background-color: rgb(109, 52, 202);
+    border-radius: 20px;
+    color: white;
+}
+.line{
+    text-decoration: line-through;
+}
+.btn-bot{
+    background-color: rgb(109, 52, 202);
+    font-size: 11px;
+}
+.box-card2{
+    background-color:  rgb(230, 46, 46);
+    border-radius: 20px;
+    color: white;
+}
+.bi-small{
+    font-size: 11px;
+}
+.bi-larg{
+    font-size: 15px;
+}
+.bottem{
+    background-image:linear-gradient(to right , rgb(170, 5, 175), rgb(72, 19, 107) ) ;
+    padding: 10px;
+}
+.bi-bottem{
+    color: rgb(255, 255, 255) ;
+    font-size: 20px;
+}
+.hr-bot{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bot-cont{
+    margin-top: -48px;
+    padding-bottom: 100PX;
+    padding-top: 100PX;
+}
+.rounde{
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: rgb(230, 46, 46);
+    transform: scale(1.1);
+}
+.btn-top:hover{
+    background-color: rgb(109, 52, 202);
+    transform: scale(1.1);
+}
+.btn:visited{
+    background-color: rgb(61, 252, 226);
+}
+.btn:active{
+    background-color: rgb(0, 132, 255);
+}
